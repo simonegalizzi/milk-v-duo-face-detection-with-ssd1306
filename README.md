@@ -1,5 +1,6 @@
 # milk-v-duo-face-detection-with-ssd1306
 The test program will pull the camera data, add the face detection algorithm, and use tools such as VLC to pull the stream in real time to view the effect with display 1306 128x32
+
 SDK_VER: musl_riscv64
 TDL SDK library path: /home/simo/host-tools/cvitek-tdl-sdk-cv180x/lib
 TDL SDK include path: /home/simo/host-tools/cvitek-tdl-sdk-cv180x/include
